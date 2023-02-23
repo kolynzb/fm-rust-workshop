@@ -1,7 +1,6 @@
 There are [slides](https://docs.google.com/presentation/d/1kkTsCrMIVtxYef9T7SV-MWS-nQlnmTniAGaTl6L9Fe4/edit?usp=sharing) that go with this repo, as well as a [companion website](https://rtfeldman-rust-workshop.netlify.app/).
 
-Getting Started
-===============
+# Getting Started
 
 1. Install [Rust](https://www.rust-lang.org/tools/install) 1.51 or higher
 
@@ -25,3 +24,5 @@ cd intro-to-rust
 ```
 
 You're all set!
+
+- Lesson Slides [here](./lessons/src/sections/)
